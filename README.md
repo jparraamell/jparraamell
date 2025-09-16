@@ -12,6 +12,8 @@
 🧩 &nbsp;Fascinated by how Artificial Intelligence, Cloud Architecture, and Systems Desing can solve real-world problems at scale. \
 🏋️‍♂️ &nbsp;In my free time, I enjoy going to the gym, playing the guitar, and reading books.
 
+---
+
 ### 🛠 &nbsp;My Skills
 <a target="_blank" align="center">
  <img 
@@ -63,23 +65,21 @@
 #### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/jparraamell">
+  <a href="https://github.com/jparraamell" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jparraamell&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/jparraamell" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jparraamell&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
+---
+
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="mailto:jparraamell@gmail.com">
-    <img src="https://img.shields.io/badge/-jparraamell@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
- <a href="https://www.linkedin.com/in/jorluis%20parra%20amell/" target="_blank">
-  <img src="https://img.shields.io/badge/-Jorluis%20Parra-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-</p>
-
+<div align="center">
+ <a target="_blank" href="https://www.linkedin.com/in/jorluis-parra-amell-132890383/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+ <a target="_blank" href="mailto:jparraamell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</div> 
 
 
 🔄 Last Updated: 16/09/2025  
