@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;My Skills
 <a target="_blank" align="center">
  <img 
-  align="right" height="600" width="600" alt="GIF" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+  align="right" height="600" width="600" alt="GIF" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="pointer-events: none;"/>
 </a>
 
 #### 🖥️ Programming Languages
@@ -75,9 +75,9 @@
   <a href="mailto:jparraamell@gmail.com">
     <img src="https://img.shields.io/badge/-jparraamell@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jparraamell/">
-    <img src="https://img.shields.io/badge/-Jorluis%20Parra-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/jorluis%20parra%20amell/" target="_blank">
+  <img src="https://img.shields.io/badge/-Jorluis%20Parra-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
 </p>
 
 
